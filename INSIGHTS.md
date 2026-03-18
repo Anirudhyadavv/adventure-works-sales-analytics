@@ -1,10 +1,10 @@
-# 📊 Business Insights from the Data Warehouse
+# Business Insights from the Data Warehouse
 
 This document presents key business insights derived from SQL analysis performed on the Gold layer of the data warehouse. The analysis focuses on customer behavior, product performance, and sales trends to uncover patterns and support data-driven decision-making.
 
 ---
 
-## 🧩 Project Scope
+## Project Scope
 
 This analysis explores:
 
@@ -16,7 +16,7 @@ The insights were generated using SQL queries on top of the **Gold layer (star s
 
 ---
 
-## 🔑 Key Insights Summary
+## Key Insights Summary
 
 | Area | Insight | Business Impact |
 |------|--------|----------------|
@@ -36,7 +36,7 @@ Out of **18,482 customers**, approximately **63%–80% placed only one order**, 
 
 This indicates that while the business is effective at acquiring customers, it struggles with **customer retention and repeat purchases**.
 
-👉 **Business Implication:**  
+ **Business Implication:**  
 Improving retention can significantly increase revenue without increasing acquisition costs.
 
 ---
@@ -47,7 +47,7 @@ Only **~20–37% of customers made repeat purchases**, and fewer than **100 cust
 
 This shows that a **very small group of loyal customers drives repeat business**.
 
-👉 **Business Implication:**  
+ **Business Implication:**  
 Targeting repeat customers can improve **customer lifetime value (CLTV)**.
 
 ---
@@ -56,7 +56,7 @@ Targeting repeat customers can improve **customer lifetime value (CLTV)**.
 
 The majority of customers fall within the **40–50+ age group**, with fewer younger customers.
 
-👉 **Business Implication:**  
+ **Business Implication:**  
 Products are likely positioned toward mature customers with higher purchasing power, indicating potential to expand into younger segments.
 
 ---
@@ -72,7 +72,7 @@ High-end bike products generate the majority of revenue:
 
 Overall, the **Bikes category contributes ~96% of total revenue**.
 
-👉 **Business Implication:**  
+ **Business Implication:**  
 The business is highly dependent on a single product category, creating a **revenue concentration risk**.
 
 ---
@@ -92,7 +92,7 @@ Appear in **thousands of orders**:
 
 However, their revenue contribution is relatively low.
 
-👉 **Business Implication:**  
+ **Business Implication:**  
 Accessories play a key role in **cross-selling and increasing order volume**, but not revenue.
 
 ---
@@ -108,7 +108,7 @@ Revenue increased significantly over time:
 
 This represents a major growth phase, including a **~141% YoY increase between 2012 and 2013**.
 
-👉 **Business Implication:**  
+ **Business Implication:**  
 The business experienced rapid expansion, likely driven by product growth and increased demand.
 
 ---
@@ -120,7 +120,7 @@ The number of active products increased from:
 - **~30 products (2011)**  
 - **130+ products (2013)**  
 
-👉 **Business Implication:**  
+ **Business Implication:**  
 Product catalog expansion contributed significantly to revenue growth.
 
 ---
