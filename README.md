@@ -9,9 +9,11 @@ This project simulates a real analytics workflow followed in many organizations:
 
 ## Project Overview
 
+This project demonstrates an end-to-end analytics workflow where raw ERP and CRM data is transformed into a structured data warehouse and visualized through Power BI dashboards.
+
 | Stage | Description |
 |------|-------------|
-| Data Ingestion | Import raw ERP and CRM datasets from CSV files |
+| Data Ingestion | Import raw ERP and CRM datasets from CSV files |            
 | Data Cleaning | Resolve data quality issues and standardize fields |
 | Data Warehouse | Build structured Bronze → Silver → Gold layers |
 | Analytics | Perform SQL‑based analytical queries |
@@ -76,47 +78,29 @@ This structure allows efficient analysis across:
 
 ---
 
-## Analytical Techniques Implemented
+## 📊 Dashboard Preview
 
-| Analysis Type | Purpose |
-|---------------|--------|
-| Exploratory Data Analysis | Understand dataset structure and validate data |
-| Change Over Time Analysis | Track sales trends across months and years |
-| Cumulative Analysis | Monitor running totals and business growth |
-| Performance Analysis (YoY / MoM) | Evaluate product performance over time |
-| Data Segmentation | Group customers and products into meaningful segments |
-| Part‑to‑Whole Analysis | Measure category contributions to total sales |
+### 🏠 Home Page
+![Home](./images/home.png)
 
----
+### 📈 Sales Analysis
+![Sales](./images/sales.png)
 
-## Reporting Layer
+### 👥 Customer Analysis
+![Customer](./images/customer.png)
 
-Analytical reports were implemented as SQL views.
+### 📦 Product Analysis
+![Product](./images/product.png)
 
-| Report | Key Metrics |
-|------|-------------|
-| Customer Report | Orders, revenue, lifespan, recency, segmentation |
-| Product Report | Revenue, customers, sales performance, product segments |
-| Sales Summary | Monthly sales, order trends, growth metrics |
-
-These reports simulate the type of **datasets used by BI dashboards**.
-
----
-
-## Example Business Questions Answered
-
-- Which products generate the highest revenue?
-- How have sales evolved over time?
-- Which customer segments contribute the most revenue?
-- What categories drive the majority of total sales?
-- Which products are high‑performers vs low‑performers?
+### 🧾 Executive Summary
+![Executive](./images/executive.png)
 
 ---
 
 ## Project Structure
 
 ```
-data-warehouse-analytics-project
+AdventureWorks-Sales-Analytics-project
 │
 ├── datasets
 │
@@ -143,6 +127,33 @@ data-warehouse-analytics-project
 
 ---
 
+## 📊 Analytical Techniques Implemented
+
+| Analysis Type | Purpose |
+|---------------|--------|
+| Exploratory Data Analysis | Understand dataset structure and validate data |
+| Change Over Time Analysis | Track sales trends across months and years |
+| Cumulative Analysis | Monitor running totals and business growth |
+| Performance Analysis (YoY / MoM) | Evaluate product performance over time |
+| Data Segmentation | Group customers and products into meaningful segments |
+| Part‑to‑Whole Analysis | Measure category contributions to total sales |
+
+---
+
+## 📑 Reporting Layer
+
+Analytical reports were implemented as SQL views.
+
+| Report | Key Metrics |
+|------|-------------|
+| Customer Report | Orders, revenue, lifespan, recency, segmentation |
+| Product Report | Revenue, customers, sales performance, product segments |
+| Sales Summary | Monthly sales, order trends, growth metrics |
+
+These reports simulate the type of **datasets used by BI dashboards**.
+
+---
+
 ## Skills Demonstrated
 
 | Category | Skills |
@@ -155,25 +166,67 @@ data-warehouse-analytics-project
 
 ---
 
-## Tools Used
+## 💡 Business Recommendations
+
+- Reduce dependency on Bikes through cross-selling  
+- Improve retention via loyalty programs  
+- Increase average order value through bundling  
+- Expand in underperforming regions  
+- Focus on high-value customers  
+
+---
+
+## 🧠 Business Questions Answered
+
+- Which products generate the highest revenue?
+- How have sales evolved over time?
+- Which customer segments contribute the most revenue?
+- What categories drive the majority of total sales?
+- Which products are high‑performers vs low‑performers?
+  
+---
+
+## 🛠️ Tools Used
 
 - SQL (MySQL)
-- Data Warehousing Concepts
 - Window Functions
+- Data Warehousing Concepts (Medallion Architecture)  
+- DAX             
 - Git & GitHub
 
 ---
 
-## About Me
+## ⚙️ How to Run the Project
 
-Hi, I'm **Anirudh**.
+1. Run init_database.sql  
+2. Execute Bronze layer scripts  
+3. Execute Silver layer scripts  
+4. Execute Gold layer scripts  
+5. Run analytics queries  
+6. Use reporting views for BI dashboards  
 
-I built this project as part of my transition into a **Data Analyst role**, focusing on strengthening my skills in:
+---
+---
 
-- SQL analytics
-- data modeling
-- data warehousing
-- business analysis
+## ⚠️ Data Limitations
+
+- Partial data for 2010 and 2014  
+- No prior year data for 2011  
+- No returns/refunds data available  
+- Customer segmentation is lifetime-based
+
+---
+
+## 👤 About Me
+
+Hi, I'm Anirudh — transitioning into a Data Analyst role.
+
+This project showcases my skills in:
+- SQL analytics  
+- Data modeling  
+- Data warehousing  
+- Business analysis  
+
 
 ---
 
