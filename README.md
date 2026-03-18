@@ -1,7 +1,7 @@
 
-# Data Warehouse & Analytics Project
+# Adventure Works Sales & Analytics Project (2010-2014)
 
-An end‑to‑end SQL project demonstrating how raw business data can be transformed into a structured **data warehouse** and used to generate **actionable business insights**.
+An end‑to‑end analytics project demonstrating how raw business data can be transformed into a structured **data warehouse** and used to generate **actionable business insights**.
 
 This project simulates a real analytics workflow followed in many organizations: from ingesting operational data to producing analytical reports and visualized through Power BI dashboards that support decision‑making.
 
@@ -38,8 +38,7 @@ The objective of this project is to demonstrate how to:
 
 The warehouse follows a layered architecture to ensure clean, reliable, and scalable data processing.
 
-### High Level Architecture
-![Home](./images/home.png)
+![High Level Architecture](docs/data_architecture.png)
 
 ```
 Source Systems (ERP & CRM CSV files)
