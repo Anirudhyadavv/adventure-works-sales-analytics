@@ -85,6 +85,9 @@ This structure allows efficient analysis across:
 ![Home](./images/home.png)
 
 ### 📈 Sales Analysis
+
+In this page, we analyzed revenue trends over time and observed steady growth from 2011 to 2014, with a major breakout in 2013 where revenue increased by approximately 141% YoY compared to 2012. The analysis also shows that this growth was primarily driven by the Bikes category, which dominates overall sales. Using cumulative revenue and YoY metrics, we identified 2013 as a key expansion phase in the business lifecycle.
+
 ![Sales](./images/sales.png)
 
 ### 👥 Customer Analysis
