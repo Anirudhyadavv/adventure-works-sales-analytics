@@ -213,15 +213,15 @@ These reports simulate the type of **datasets used by BI dashboards**.
 
 ## 👤 About Me
 
-Hi, I'm Anirudh — transitioning into a Data Analyst role.
+Hi, I'm Anirudh — an Data Analyst with ~7+ years of professional experience across aerospace manufacturing and customer operations.
 
-This project showcases my skills in:
-- SQL analytics  
-- Data modeling  
-- Data warehousing  
-- Business analysis  
+I am currently transitioning into data analytics, where I combine my real-world operational experience with data-driven problem solving. Through this project, I applied data warehousing concepts, SQL analytics, and business thinking to transform raw data into actionable insights.
 
+My goal is to leverage data to solve business problems, improve decision-making, and drive measurable impact.
 
+📍 Based in Hyderabad, India.
+
+🔗**Connect [LinkedIn](www.linkedin.com/in/anirudh-yadav-b-098231204) 
 ---
 
 ## License
