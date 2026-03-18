@@ -222,6 +222,7 @@ My goal is to leverage data to solve business problems, improve decision-making,
 📍 Based in Hyderabad, India.
 
 🔗[LinkedIn](https://www.linkedin.com/in/anirudh-yadav-b-098231204) 
+🔗[GitHub](https://github.com/Anirudhyadavv)
 ---
 
 ## License
