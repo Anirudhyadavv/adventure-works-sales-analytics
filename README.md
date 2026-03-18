@@ -16,6 +16,7 @@ This project simulates a real analytics workflow followed in many organizations:
 | Data Warehouse | Build structured Bronze → Silver → Gold layers |
 | Analytics | Perform SQL‑based analytical queries |
 | Reporting | Create analytical views for business reporting |
+| BI Visualisation | Built Analytics Dashboard with insights and recomendations across the years |
 | Insights | Derive business insights from the analytical results |
 
 ---
