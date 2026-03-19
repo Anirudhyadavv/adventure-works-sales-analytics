@@ -79,28 +79,28 @@ Introduces the analytics solution with key metrics and architecture, providing a
 ---
 ### 📈 Sales Analysis
 
-In this page, we analyzed revenue trends over time and observed steady growth from 2011 to 2014, with a major breakout in 2013 where revenue increased by approximately 141% YoY compared to 2012. The analysis also shows that this growth was primarily driven by the Bikes category, which dominates overall sales. Using cumulative revenue and YoY metrics, we identified 2013 as a key expansion phase in the business lifecycle.
+In this page, we analyzed **revenue trends over time** and observed **steady growth from 2011 to 2014**, with a major breakout in **2013** where revenue increased by approximately **141% YoY compared to 2012**. The analysis also shows that this growth was primarily driven by the **Bikes category**, which dominates overall sales. Using cumulative revenue and YoY metrics, we identified **2013 as a key expansion phase** in the business lifecycle.
 
 ![Sales](docs/Dashboard_sales_page.png)
 
 ---
 ### 👥 Customer Analysis
 
-In this page, we evaluated customer purchasing behavior and found that approximately 80% of customers made only a single purchase, indicating a significant retention challenge. Additionally, a small segment of high-value (VIP) customers contributes a disproportionately large share of total revenue, suggesting that improving repeat purchases and customer lifetime value could drive substantial growth.
+In this page, we evaluated **customer purchasing behavior** and found that approximately **80% of customers made only a single purchase**, indicating a significant **retention challenge**. Additionally, a **small segment of high-value (VIP)** customers contributes a disproportionately **large share of total revenue**, suggesting that **improving repeat purchases and customer lifetime value** could drive substantial growth.
 
 ![Customer](docs/Dashboard_customers_page.png)
 
 ---
 ### 📦 Product Analysis
 
-In this page, we analyzed product performance and identified that the Bikes category contributes nearly 96% of total revenue, highlighting a strong dependency on a single product category. While Bikes are the primary revenue driver, other categories such as Accessories and Clothing contribute minimally, indicating an opportunity for diversification to reduce business risk.
+In this page, we analyzed **product performance ** and identified that the **Bikes category** contributes nearly **96% of total revenue**, highlighting a **strong dependency** on a **single product category**. While Bikes are the primary revenue driver, other categories such as **Accessories and Clothing contribute minimally**, indicating an opportunity for **diversification to reduce business risk**.
 
 ![Product](docs/Dashboard_products_page.png)
 
 ---
 ### 🧾 Executive Summary
 
-This page consolidates the overall findings, showing that the business grew significantly from late 2010 to 2014, reaching approximately $43.5M in total revenue, with a major growth phase in 2013. However, the analysis also reveals key challenges, including high revenue concentration in Bikes (96%) and low customer retention (80% one-time buyers). Based on these insights, strategic recommendations include improving customer retention, increasing average order value, and diversifying product offerings to ensure sustainable long-term growth.
+This page consolidates the **overall findings**, showing that the **business grew significantly from late 2010 to 2014**, reaching approximately **$43.5M in total revenue**, with a **major growth phase in 2013**. However, the analysis also reveals key challenges, including **high revenue concentration in Bikes (96%)** and **low customer retention (80% one-time buyers)**. Based on these insights, strategic recommendations include **improving customer retention**, **increasing average order value**, and **diversifying product offerings** to ensure **sustainable long-term growth**.
 
 ![Executive](docs/Dashboard_executive_page.png)
 
