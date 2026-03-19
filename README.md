@@ -7,7 +7,7 @@ This project simulates a real analytics workflow followed in many organizations:
 
 ## 🚀 Live Dashboard
 
-🔗 [View Power BI Dashboard](https://app.powerbi.com/view?r=YOUR-LINK)
+🔗 [View Power BI Dashboard]([https://app.powerbi.com/view?r=YOUR-LINK](https://app.powerbi.com/view?r=eyJrIjoiMzgxZTBiNTgtODU1NS00MWM4LTkwNTEtMWFkODgzM2VmOGEwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=09573675b4be27c98c19))
 
 > ⚡ Interactive dashboard available above — explore filters, drilldowns, and insights in real-time.
 
