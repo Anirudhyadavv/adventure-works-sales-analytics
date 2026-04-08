@@ -20,7 +20,7 @@ The insights were generated using SQL queries on top of the **Gold layer (star s
 
 | Area | Insight | Business Impact |
 |------|--------|----------------|
-| Customer Behavior | ~63–80% customers are one-time buyers | Indicates strong acquisition but poor retention |
+| Customer Behavior | ~80% customers are one-time buyers | Indicates strong acquisition but poor retention |
 | Product Performance | Premium bike models generate $1M+ revenue each | Bikes are primary revenue drivers |
 | Product Mix | Accessories appear in thousands of orders | Strong cross-selling opportunity |
 | Sales Growth | Revenue grew from ~$44K (2010) to ~$2.8M (2013) | Rapid business expansion phase |
@@ -32,7 +32,7 @@ The insights were generated using SQL queries on top of the **Gold layer (star s
 
 ## 🔹 High proportion of one-time customers
 
-Out of **18,482 customers**, approximately **63%–80% placed only one order**, depending on aggregation level.
+Out of **18,482 customers**, approximately **80% placed only one order**, depending on aggregation level.
 
 This indicates that while the business is effective at acquiring customers, it struggles with **customer retention and repeat purchases**.
 
@@ -43,7 +43,7 @@ Improving retention can significantly increase revenue without increasing acquis
 
 ## 🔹 Limited repeat customer base
 
-Only **~20–37% of customers made repeat purchases**, and fewer than **100 customers placed more than five orders**.
+Only **~20% of customers made repeat purchases**, and fewer than **100 customers placed more than five orders**.
 
 This shows that a **very small group of loyal customers drives repeat business**.
 
@@ -171,7 +171,7 @@ The analysis reveals that the business experienced strong growth between **2011 
 However, two key challenges remain:
 
 - **High revenue concentration (~96% from Bikes)**  
-- **Low customer retention (63–80% one-time buyers)**  
+- **Low customer retention (80% one-time buyers)**  
 
 While accessories contribute to order volume through cross-selling, they have limited impact on revenue.
 
